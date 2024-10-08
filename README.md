@@ -28,7 +28,7 @@ Instalación y configuración: Instala Python y configura tu entorno de desarrol
 - Uso de context managers (with)
 # 3. Programación Orientada a Objetos (OOP)
 ## Clases y objetos:
---Declaración de clases y creación de instancias
+- Declaración de clases y creación de instancias
 - Métodos y atributos
 ## Herencia:
 - Herencia simple y múltiple
